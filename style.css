@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-sbv{
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+}
+
+.cat-btn button{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 8px;
+}
+
+.profile-pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.profile-name{
+    font-size: 14px;
+}
